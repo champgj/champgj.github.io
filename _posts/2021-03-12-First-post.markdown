@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Incheon National University"
 date:   2021-03-12 15:57:15 +0900
 categories: School
